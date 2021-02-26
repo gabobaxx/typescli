@@ -1,6 +1,6 @@
 {
   "name": "typescli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI App using typescript, nodejs, lowdb and inquirerjs",
   "main": "build/index.js",
   "bin": {
