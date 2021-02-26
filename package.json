@@ -27,5 +27,16 @@
     "@types/inquirer": "^7.3.1",
     "@types/lowdb": "^1.0.9",
     "typescript": "^4.2.2"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielba15/typescli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrielba15/typescli/issues"
+  },
+  "homepage": "https://github.com/gabrielba15/typescli#readme"
 }
