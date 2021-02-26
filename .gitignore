@@ -1,0 +1,11 @@
+/*
+
+!.gitignore
+!src
+!nodemon.json
+!package-lock.json
+!package.json
+!tsconfig.json
+!README.md
+!docs
+!.npmignore

@@ -1,0 +1,31 @@
+{
+  "name": "typescli",
+  "version": "0.0.1",
+  "description": "CLI App using typescript, nodejs, lowdb and inquirerjs",
+  "main": "build/index.js",
+  "bin": {
+    "typescli": "build/index.js"
+  },
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "keywords": [
+    "Typescript",
+    "Nodejs",
+    "lowdb",
+    "Inquirer"
+  ],
+  "author": "https://www.github.com/gabrielba15",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^7.3.1",
+    "@types/lowdb": "^1.0.9",
+    "typescript": "^4.2.2"
+  }
+}
