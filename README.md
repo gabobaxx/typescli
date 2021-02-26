@@ -20,9 +20,16 @@ typescli
 
 ## Screenshots :camera:
 
+#### Show/Hide Completed Tasks
 ![principal](docs/principal.png)
+
+#### Add New Tasks
 ![new](docs/new-task.png)
+
+#### Mark Tasks as Completed
 ![complete](docs/mark-complete.png)
+
+#### Remove Completed Task
 ![remove](docs/remove.png)
 
 ## Hacking
